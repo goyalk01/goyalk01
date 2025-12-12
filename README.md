@@ -1,4 +1,4 @@
-<img width="1791" height="626" alt="image" src="https://github.com/user-attachments/assets/b3a4bf36-8373-4a85-9d5c-2950be6db56d" /><!-- Typing Animation -->
+<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F700&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Krish+Goyal;Learning+One+Bug+at+a+Time+🐛➡️🧑‍💻;Welcome+to+my+GitHub!" />
 </h1>
@@ -77,4 +77,3 @@ One win at a time. 🚀
 ---
 
 ## 🌟 Thanks for stopping by!
-
