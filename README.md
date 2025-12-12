@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F700&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Krish+Goyal;Learning+One+Bug+at+a+Time+🐛➡️🧑‍💻;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F700&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Krish+Goyal;.Learning+One+Bug+at+a+Time+🐛➡️🧑‍💻;Welcome+to+my+GitHub!" />
 </h1>
 
 ---
